@@ -43,6 +43,12 @@ body {
   width: 100%;
 }
 
+.card-img img {
+  height: 300px; /* or any desired consistent height */
+  object-fit: cover;
+  width: 100%;
+  border-radius: 1rem; /* optional if already set inline */
+}
 
   
   a {
